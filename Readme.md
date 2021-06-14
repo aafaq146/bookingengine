@@ -48,6 +48,7 @@ For covering more test cases we are going to need at least one hotel with 3 Hote
 
 - Third with price 200 (above max_price) 
 
+#route will be \api
 
 ## Request example:
 
